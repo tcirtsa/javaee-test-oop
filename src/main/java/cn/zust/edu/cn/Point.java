@@ -1,8 +1,8 @@
 package cn.zust.edu.cn;
 /**
  * 
- * @author czg
- * @since 2023/3/7 10:50
+ * @author tcirtsa
+ * @since 2024/3/7
  */
 public class Point {
     private int x;

@@ -14,8 +14,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="341e3750-b003-48d6-9720-3813c2a42bbe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/ShapeManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/ShapeManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/zust/edu/cn/Triangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,30 +47,37 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../software/maven363" />
-        <option name="userSettingsFile" value="D:\software\maven363\conf\settings.xml" />
+        <option name="localRepository" value="D:\J2EE\maven-reposity\reposity" />
+        <option name="mavenHome" value="E:\apache-maven-3.9.6" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.9.6\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2EQFlls0QmfIocWyIt5ZbRCr04s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.App.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.zust.edu.cn.App" />
@@ -76,6 +92,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -97,6 +118,9 @@
       <updated>1662520054313</updated>
       <workItem from="1662520060171" duration="1981000" />
       <workItem from="1709703022872" duration="157000" />
+      <workItem from="1709714957022" duration="41000" />
+      <workItem from="1709792137424" duration="326000" />
+      <workItem from="1709799707327" duration="660000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1662520558309</created>
@@ -133,27 +157,5 @@
     <MESSAGE value="init" />
     <MESSAGE value="任务说明" />
     <option name="LAST_COMMIT_MESSAGE" value="任务说明" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1662520112095">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1662520112095" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1662520112095">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1662520112095" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1662520112094">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1662520112094" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1662520112095">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1662520112095" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1662521993941">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1662521993941" />
   </component>
 </project>
