@@ -2,7 +2,7 @@ package cn.zust.edu.cn;
 /**
  * 
  * @author tcirtsa
- * @since 2024/3/7
+ * @since 2024/3/8
  */
 public class Point {
     private int x;
